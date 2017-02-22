@@ -1,0 +1,414 @@
+[2014/02/19 09:57:00][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 09:57:00][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 09:57:00][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 09:57:00][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 09:57:00][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 09:57:00][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 09:57:00][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 09:57:00][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 09:57:00][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/02/19 09:57:00][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/02/19 09:57:00][INFO ](SmtIsi_Process.java:68) - Yield 판정
+[2014/02/19 09:57:11][ERROR](GlobalDao.java:187) - com.microsoft.sqlserver.jdbc.SQLServerException: Implicit conversion from data type varchar to varbinary is not allowed. Use the CONVERT function to run this query.
+[2014/02/19 10:04:03][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:04:03][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:04:03][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:04:03][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:04:03][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 10:04:04][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:04:04][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 10:04:04][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 10:04:04][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/02/19 10:04:04][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/02/19 10:04:04][INFO ](SmtIsi_Process.java:68) - Yield 판정
+[2014/02/19 10:04:08][ERROR](GlobalDao.java:187) - com.microsoft.sqlserver.jdbc.SQLServerException: String or binary data would be truncated.
+[2014/02/19 10:10:32][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:10:32][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:10:32][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:10:32][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:10:32][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 10:10:33][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:10:33][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 10:10:33][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 10:10:33][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/02/19 10:10:33][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/02/19 10:10:33][INFO ](SmtIsi_Process.java:68) - Yield 판정
+[2014/02/19 10:11:08][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:11:08][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:11:08][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:11:08][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:11:08][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 10:11:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:11:09][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 10:11:09][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 10:11:09][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/02/19 10:11:09][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/02/19 10:11:14][INFO ](SmtIsi_Process.java:68) - Yield 판정
+[2014/02/19 10:12:22][ERROR](GlobalDao.java:187) - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK_SBL_RESULT'. Cannot insert duplicate key in object 'dbo.SBL_RESULT'. The duplicate key value is (20140218165009, KGDTEST1, KLM8G1WEMB-B0300Y0-123456, T070000, mu01).
+[2014/02/19 10:13:01][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:13:01][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:13:01][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:13:01][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:13:01][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 10:13:02][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:13:02][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 10:13:02][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 10:13:02][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/02/19 10:13:02][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/02/19 10:13:03][INFO ](SmtIsi_Process.java:68) - Yield 판정
+[2014/02/19 10:13:03][ERROR](GlobalDao.java:187) - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK_SBL_RESULT'. Cannot insert duplicate key in object 'dbo.SBL_RESULT'. The duplicate key value is (20140218165009, KGDTEST1, KLM8G1WEMB-B0300Y0-123456, T070000, mu01).
+[2014/02/19 10:14:59][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:14:59][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:14:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:14:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:14:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 10:14:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:14:59][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 10:14:59][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 10:14:59][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/02/19 10:14:59][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/02/19 10:16:09][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:16:09][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:16:09][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:16:09][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:16:09][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 10:16:09][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:16:09][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 10:16:09][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 10:16:09][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/02/19 10:16:09][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/02/19 10:16:14][INFO ](SmtIsi_Process.java:68) - Yield 판정
+[2014/02/19 10:16:47][ERROR](GlobalDao.java:187) - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK_SBL_RESULT'. Cannot insert duplicate key in object 'dbo.SBL_RESULT'. The duplicate key value is (20140218165009, KGDTEST1, KLM8G1WEMB-B0300Y0-123456, T070000, mu01).
+[2014/02/19 10:17:59][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:17:59][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:17:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:17:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:17:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 10:17:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:17:59][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 10:17:59][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 10:17:59][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/02/19 10:17:59][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/02/19 10:18:05][INFO ](SmtIsi_Process.java:68) - Yield 판정
+[2014/02/19 10:19:59][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:19:59][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:19:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:19:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:19:59][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F@#@22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F@#@24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F@#@23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F@#@25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F@#@12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F@#@69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F@#@49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F@#@50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F@#@99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F@#@
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [22, 1:HOLD:ISBC1, 1:HOLD:ISBC1, 1:HOLD:ISBC1, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 22!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!1:HOLD:ISBC1!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [24, 1:HOLD:ISBC2, 1:HOLD:ISBC2, 1:HOLD:ISBC2, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 24!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!1:HOLD:ISBC2!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [23, 1:HOLD:ISBF1, 1:HOLD:ISBF1, 1:HOLD:ISBF1, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 23!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!1:HOLD:ISBF1!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [25, 1:HOLD:ISBF2, 1:HOLD:ISBF2, 1:HOLD:ISBF2, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 25!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!1:HOLD:ISBF2!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [12, 1:HOLD:CSD, 1:HOLD:CSD, 1:HOLD:CSD, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 12!#!1:HOLD:CSD!#!1:HOLD:CSD!#!1:HOLD:CSD!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [69, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, 0.3:HOLD:PMAP, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 69!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!0.3:HOLD:PMAP!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [49, 1:HOLD:X8_W, 1:HOLD:X8_W, 1:HOLD:X8_W, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 49!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!1:HOLD:X8_W!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [50, 1:HOLD:X8_R, 1:HOLD:X8_R, 1:HOLD:X8_R, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 50!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!1:HOLD:X8_R!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:FAIL_SUM, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:FAIL_SUM!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F
+[2014/02/19 10:19:59][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/02/19 10:19:59][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/02/19 10:19:59][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/02/19 10:23:06][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:23:07][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:23:07][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:23:07][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:23:07][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:26:56][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:26:56][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:26:56][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:26:56][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:26:56][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:29:20][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_KGDTEST1_T070000_mu01_20140218165009_02.osc
+[2014/02/19 10:29:20][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/02/19 10:29:20][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:478,6:3,8:6,
+[2014/02/19 10:29:20][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:6,8:2,
+[2014/02/19 10:29:20][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 8:2,
+[2014/02/19 10:29:25][ERROR](SmtIsi_Parameter.java:137) - java.lang.NumberFormatException: null
+[2014/02/19 10:29:25][ERROR](SmtIsi_Parameter.java:138) - Format Error EQP Not

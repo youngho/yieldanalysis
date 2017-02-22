@@ -1,0 +1,56 @@
+[2014/03/20 10:04:13][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:04:13][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:04:13][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:111,8:1,
+[2014/03/20 10:04:34][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:1,
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:151) - [SBL_Stdinfo] splitSubBin() ****sData=10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F!#!@#@8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F!#!@#@114!#!3:HOLD:environment!#!3:HOLD:PrimeCSD!#!3:HOLD:PrimeCSD!#!F!#!@#@115!#!3:HOLD:assembly!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F!#!@#@99!#!3:HOLD:product!#!3:HOLD:PrimeCSD!#!3:HOLD:PrimeCSD!#!F!#!@#@
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [10, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, 1:HOLD:PrimeCSD, F]
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 10!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!1:HOLD:PrimeCSD!#!F!#!
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [8, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, 1.0:HOLD:OPSH, F]
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 8!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!1.0:HOLD:OPSH!#!F!#!
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [114, 3:HOLD:environment, 3:HOLD:PrimeCSD, 3:HOLD:PrimeCSD, F]
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 114!#!3:HOLD:environment!#!3:HOLD:PrimeCSD!#!3:HOLD:PrimeCSD!#!F!#!
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [115, 3:HOLD:assembly, 3:HOLD:ISBF1, 3:HOLD:ISBF1, F]
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 115!#!3:HOLD:assembly!#!3:HOLD:ISBF1!#!3:HOLD:ISBF1!#!F!#!
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:139) - [SBL_Stdinfo] splitArrayList() pTemp= [99, 3:HOLD:product, 3:HOLD:PrimeCSD, 3:HOLD:PrimeCSD, F]
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:140) - [SBL_Stdinfo] splitArrayList() pData= 99!#!3:HOLD:product!#!3:HOLD:PrimeCSD!#!3:HOLD:PrimeCSD!#!F!#!
+[2014/03/20 10:05:39][INFO ](SmtIsi_Stdinfo.java:141) -  [SBL_Stdinfo] splitArrayList() result= true
+[2014/03/20 10:05:39][INFO ](SmtIsi_Process.java:43) - 판정 제외1
+[2014/03/20 10:05:39][INFO ](SmtIsi_Process.java:49) - MIX 판정
+[2014/03/20 10:05:39][INFO ](SmtIsi_Process.java:55) - 판정 제외2
+[2014/03/20 10:05:39][INFO ](SmtIsi_Process.java:61) - SubBin 판정
+[2014/03/20 10:05:39][INFO ](SmtIsi_JudgeSubbin.java:68) - Check BinNo=10
+[2014/03/20 10:05:39][INFO ](SmtIsi_JudgeSubbin.java:68) - Check BinNo=8
+[2014/03/20 10:05:39][INFO ](SmtIsi_JudgeSubbin.java:68) - Check BinNo=99
+[2014/03/20 10:05:39][INFO ](SmtIsi_Process.java:68) - Yield 판정
+[2014/03/20 10:05:39][INFO ](SmtIsi_Process.java:75) - NOT 판정
+[2014/03/20 10:05:39][INFO ](SmtIsi_Process.java:82) - LOS 판정
+[2014/03/20 10:12:18][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:12:18][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:12:18][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:111,8:1,
+[2014/03/20 10:12:34][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:1,
+[2014/03/20 10:14:20][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:14:20][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:14:44][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:111,8:1,
+[2014/03/20 10:15:55][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:15:56][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:17:17][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:111,8:1,
+[2014/03/20 10:24:13][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:24:13][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:24:34][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:24:34][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:34:48][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:34:48][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:35:45][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:35:45][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:36:03][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:36:03][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:36:29][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_TESTE_T070000_mu01_20140320163910_01.osc
+[2014/03/20 10:36:29][INFO ](SmtOscar_Hist_FileCheck.java:122) - [FileCheck] NORMAL
+[2014/03/20 10:36:29][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:111,8:1,
+[2014/03/20 10:36:29][INFO ](SmtOscar_Hist_FileProcess.java:302) - SORT : 2:1,
+[2014/03/20 10:36:39][INFO ](SmtOscar_Hist_Dao.java:1131) - [SMART_TEST_YIELD_HIST_00 Insert Start.]
+[2014/03/20 10:36:39][INFO ](SmtOscar_Hist_Dao.java:1133) - [Insert Data End]
