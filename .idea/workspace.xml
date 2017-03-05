@@ -343,7 +343,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tptech.SmtOscar_Main" />
+      <option name="MAIN_CLASS_NAME" value="com.tptech.YieldAnalysis_Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />

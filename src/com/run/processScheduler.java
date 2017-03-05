@@ -78,7 +78,7 @@ public class processScheduler {
 			System.out.println("START SmtOscar Process ..");
 			
 			//Process process = Runtime.getRuntime().exec("./startOpirus.bat");
-			Process process = Runtime.getRuntime().exec("java com.tptech.SmtOscar_Main");
+			Process process = Runtime.getRuntime().exec("java com.tptech.YieldAnalysis_Main");
 			System.out.println("START Process End.");
 			//System.exit(0);
 			/*BufferedReader err = new BufferedReader(new InputStreamReader(process.getErrorStream()));
