@@ -77,6 +77,11 @@ public class SmtIsi_Process {
                 }
             }
             dele.insertNgBin(mainBin, subBin);
+        } else if (FileName.contains("cancel")) {
+            for (int i = 0; i < Hist_Variable.cancelList.size(); i++) {
+                String[] casiData = Hist_Variable.cancelList.get(i).split(" ");
+                dele.insertCancel((i+1), casiData[0], casiData[1], casiData[2].replaceAll(";", ""));
+           }
         } else if (FileName.contains(".FLS")) {
             int indexSize =  Hist_Variable.tdbi_bi_List.size();
             
