@@ -1,8 +1,5 @@
 package com.tptech.isi;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.apache.log4j.Logger;
 
 import com.tptech.Hist_Variable;
@@ -19,7 +16,7 @@ public class SmtIsi_Process {
         if (FileName.contains("casi")) {
             for (int i = 0; i < Hist_Variable.casiList.size(); i++) {
                  String[] casiData = Hist_Variable.casiList.get(i).split(" ");
-//                 dele.insertGasi((i+1), casiData[0], casiData[1], casiData[2].replaceAll(";", ""));
+                 dele.insertGasi((i+1), casiData[0], casiData[1], casiData[2].replaceAll(";", ""));
             }
         } else if (FileName.contains("chipid")) {
 
@@ -56,8 +53,8 @@ public class SmtIsi_Process {
                 }
             }
             
-//             dele.insertMainBin(testBin, handlerBin, opBin);
-        } else if (FileName.contains("subbin")) {
+             dele.insertMainBin(testBin, handlerBin, opBin);
+        } else if (FileName.contains("ngbin")) {
 
             String mainBin = "";
             String subBin = "";
@@ -71,7 +68,7 @@ public class SmtIsi_Process {
                 }
             }
 
-            // SUB_BIN
+            // NG_BIN
             int subBinListSize = Hist_Variable.subBinList.size();
             for (int i = 0; i < subBinListSize; i++) {
 
@@ -79,15 +76,15 @@ public class SmtIsi_Process {
                     subBin += Hist_Variable.subBinList.get(i) + ",";
                 }
             }
-//            dele.insertNgBin(mainBin, subBin);
+            dele.insertNgBin(mainBin, subBin);
         } else if (FileName.contains(".FLS")) {
             int indexSize =  Hist_Variable.tdbi_bi_List.size();
             
             for (int i = 0; i < indexSize; i++) {
                 String[] zon_split = Hist_Variable.tdbi_zon_List.get(i).split("[A-Z]");
-//                dele.insertTDBI((i+1), Integer.parseInt(Hist_Variable.tdbi_bi_List.get(i).substring(0, 4)), Integer.parseInt(Hist_Variable.tdbi_bi_List.get(i)), 
-//                        Integer.parseInt(zon_split[1]), Integer.parseInt(zon_split[2]), 
-//                        Hist_Variable.tdbi_x_List.get(i), Hist_Variable.tdbi_y_List.get(i), Hist_Variable.tdbi_map_List.get(i));
+                dele.insertTDBI((i+1), Integer.parseInt(Hist_Variable.tdbi_bi_List.get(i).substring(0, 4)), Integer.parseInt(Hist_Variable.tdbi_bi_List.get(i)), 
+                        Integer.parseInt(zon_split[1]), Integer.parseInt(zon_split[2]), 
+                        Hist_Variable.tdbi_x_List.get(i), Hist_Variable.tdbi_y_List.get(i), Hist_Variable.tdbi_map_List.get(i));
             }
         }
     }

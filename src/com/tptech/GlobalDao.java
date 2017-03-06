@@ -1,6 +1,5 @@
 package com.tptech;
-import java.sql.*;import java.util.*; import org.apache.log4j.Logger;
-import com.tptech.conf.PropertiesReader;import com.tptech.log.WriteLogger;import com.tptech.util.*;
+import java.sql.CallableStatement;import java.sql.Connection;import java.sql.ResultSet;import java.sql.SQLException;import java.sql.Statement;import java.util.Vector;import org.apache.log4j.Logger;import com.tptech.conf.PropertiesReader;import com.tptech.log.WriteLogger;import com.tptech.util.DbUtils;
 public class GlobalDao {
 	private static Logger logger = WriteLogger.getInstance("GlobalDao.java");
 	public static Vector<String[]> selectQuery(String sSql) throws SQLException {		Connection conn = null;		Statement st = null;     		ResultSet rs = null;		Vector<String[]> vReturn = null;
