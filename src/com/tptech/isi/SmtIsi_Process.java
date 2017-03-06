@@ -4,7 +4,7 @@ import org.apache.log4j.Logger;
 
 import com.tptech.Hist_Variable;
 import com.tptech.log.WriteLogger;
-import com.tptech.smtoscar_hist.YieldAnalysis_Hist_Dele;
+import com.tptech.yieldAnalysis_hist.YieldAnalysis_Hist_Dele;
 
 public class SmtIsi_Process {
 
@@ -53,27 +53,27 @@ public class SmtIsi_Process {
                 }
             }
             
-             dele.insertMainBin(testBin, handlerBin, opBin);
+              dele.insertMainBin(testBin, handlerBin, opBin);
         } else if (FileName.contains("ngbin")) {
 
             String mainBin = "";
             String subBin = "";
 
             // MAIN_BIN
-            int subBinMainListSize = Hist_Variable.subBinMainList.size();
+            int subBinMainListSize = Hist_Variable.ngBinMainList.size();
             for (int i = 0; i < subBinMainListSize; i++) {
-                mainBin += Hist_Variable.subBinMainList.get(i);
+                mainBin += Hist_Variable.ngBinMainList.get(i);
                 if (i != (subBinMainListSize - 1)) {
                     mainBin += ",";
                 }
             }
 
             // NG_BIN
-            int subBinListSize = Hist_Variable.subBinList.size();
+            int subBinListSize = Hist_Variable.ngBinList.size();
             for (int i = 0; i < subBinListSize; i++) {
 
-                if (!Hist_Variable.subBinList.get(i).contains("99999999")) {
-                    subBin += Hist_Variable.subBinList.get(i) + ",";
+                if (!Hist_Variable.ngBinList.get(i).contains("99999999")) {
+                    subBin += Hist_Variable.ngBinList.get(i) + ",";
                 }
             }
             dele.insertNgBin(mainBin, subBin);

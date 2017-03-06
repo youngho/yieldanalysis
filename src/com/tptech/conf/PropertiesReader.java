@@ -17,9 +17,9 @@ public class PropertiesReader {
 		 Properties ppt = new Properties();
 		 String currentDir=System.getProperty("user.dir");
 		 if(host.startsWith("BRZ-D20164")){
-			 filename = "local_smtoscar.properties";
+			 filename = "yieldAnalysis.properties";
 		 }else{
-			 filename = "smtoscar.properties";
+			 filename = "yieldAnalysis.properties";
 		 }
 
 		 String pptFile = currentDir + "/conf/" + filename;

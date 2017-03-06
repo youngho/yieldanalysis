@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class processScheduler {
 
-	final String PROCESS = "com.tptech.SmtOscar_Main";
+	final String PROCESS = "com.tptech.YieldAnalysis_Main";
 	/**
 	 * @param args
 	 */
@@ -75,7 +75,7 @@ public class processScheduler {
 	private void startProcess(){
 		
 		try {
-			System.out.println("START SmtOscar Process ..");
+			System.out.println("START YieldAnalysis Process ..");
 			
 			//Process process = Runtime.getRuntime().exec("./startOpirus.bat");
 			Process process = Runtime.getRuntime().exec("java com.tptech.YieldAnalysis_Main");

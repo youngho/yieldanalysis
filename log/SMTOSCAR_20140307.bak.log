@@ -1,131 +1,0 @@
-[2014/03/07 11:57:50][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_140226_QA-LAB_T070FUL_mu01_20140226164752_00.osc
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:132) - File Check Format Error-4 : No Column Error
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - <MLCT>
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - <HEAD>
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - Flag=10 Retest=0 Side=A Tmode=AUTO
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - LotId=140226_QA-LAB ProcessId=T070FUL Inqty=5
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - Tester=mu01 System=MAGNUM3 Handler=M500HT Program=mx8pbf3h Type=PP Board_id=00000000
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - Head=A OS=0.0 Operator=0904342911 Sub_Program=004D4640
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - Simax=COMPONENT
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - NEXTSPLITINFO=
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - </HEAD>
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - <GAMMA>
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - OP_INPUT=5 OP_CAT1=0 OP_CAT2=0 OP_CAT3=0 OP_CAT4=0 OP_CAT5=0 OP_CAT6=1 OP_CAT7=4 OP_CAT8=0 OP_CAT9=0 OP_PASS=0
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - EQP_INPUT=5 EQP_CAT1=0 EQP_CAT2=0 EQP_CAT3=0 EQP_CAT4=0 EQP_CAT5=0 EQP_CAT6=1 EQP_CAT7=4 EQP_CAT8=0 EQP_CAT9=0 EQP_PASS=0
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - HD_INPUT=10 HD_REJ=0 HD_SOR=10 HD_RET=0 HD_CAT1=0 HD_CAT2=0 HD_CAT3=0 HD_CAT4=0 HD_CAT5=0 HD_CAT6=1 HD_CAT7=4 HD_CAT8=0 HD_PASS=0
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - PGMVER_START= PGMVER_END=
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - SBL_CODE=24 SBL_JUDGE=24 SBL_CMD=98 RUN_SBL_CODE=BIN RUN_SBL_CMD=ISBC2
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - SBL_CODE=101 SBL_JUDGE=101 SBL_CMD=98 RUN_SBL_CODE=YLD RUN_SBL_CMD=
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - LOTINMODE=NOR LOTOUTMODE=AUTO
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - IBB=0.00 FBB=0.00 EBB=0.00
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - </GAMMA>
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - <DUTMAP>
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 Start_Date=2014/02/26 Start_Time=15:59:34 End_Date=2014/02/26 End_Time=16:47:52
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 SUB=23:1,24:1,71:2,73:1,99:1,115:4,
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 SORT=6:1,7:4,
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 NG=223:1,224:1,801:2,803:1,
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - </DUTMAP>
-[2014/03/07 11:57:50][ERROR](SmtOscar_Hist_FileCheck.java:136) - </MLCT>
-[2014/03/07 11:57:50][INFO ](FileMoveUtil.java:143) - [mkdir] C:/DataFile/OSCAR/ErrorData/ConData/Format/03Data
-[2014/03/07 11:57:50][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_140226_QA-LAB_T070FUL_mu01_20140226164752_00.osc.bak
-[2014/03/07 12:11:41][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_140226_QA-LAB_T070FUL_mu01_20140226164752_00.osc.bak
-[2014/03/07 12:42:41][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_140226_QA-LAB_T070FUL_mu01_20140226164752_00.osc
-[2014/03/07 12:42:53][ERROR](SmtOscar_Hist_FileCheck.java:132) - File Check Format Error-7 : ProductId Error
-[2014/03/07 12:42:58][ERROR](SmtOscar_Hist_FileCheck.java:136) - <MLCT>
-[2014/03/07 12:42:59][ERROR](SmtOscar_Hist_FileCheck.java:136) - <HEAD>
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - Flag=10 Retest=0 Side=A Tmode=AUTO
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - LotId=140226_QA-LAB ProductId=KLM8G1WEMB-B0300Y0-123456 ProcessId=T070FUL Inqty=5
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - Tester=mu01 System=MAGNUM3 Handler=M500HT Program=mx8pbf3h Type=PP Board_id=00000000
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - Head=A OS=0.0 Operator=0904342911 Sub_Program=004D4640
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - Simax=COMPONENT
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - NEXTSPLITINFO=
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - </HEAD>
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - <GAMMA>
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - OP_INPUT=5 OP_CAT1=0 OP_CAT2=0 OP_CAT3=0 OP_CAT4=0 OP_CAT5=0 OP_CAT6=1 OP_CAT7=4 OP_CAT8=0 OP_CAT9=0 OP_PASS=0
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - EQP_INPUT=5 EQP_CAT1=0 EQP_CAT2=0 EQP_CAT3=0 EQP_CAT4=0 EQP_CAT5=0 EQP_CAT6=1 EQP_CAT7=4 EQP_CAT8=0 EQP_CAT9=0 EQP_PASS=0
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - HD_INPUT=10 HD_REJ=0 HD_SOR=10 HD_RET=0 HD_CAT1=0 HD_CAT2=0 HD_CAT3=0 HD_CAT4=0 HD_CAT5=0 HD_CAT6=1 HD_CAT7=4 HD_CAT8=0 HD_PASS=0
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - PGMVER_START= PGMVER_END=
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - SBL_CODE=24 SBL_JUDGE=24 SBL_CMD=98 RUN_SBL_CODE=BIN RUN_SBL_CMD=ISBC2
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - SBL_CODE=101 SBL_JUDGE=101 SBL_CMD=98 RUN_SBL_CODE=YLD RUN_SBL_CMD=
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - LOTINMODE=NOR LOTOUTMODE=AUTO
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - IBB=0.00 FBB=0.00 EBB=0.00
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - </GAMMA>
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - <DUTMAP>
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 Start_Date=2014/02/26 Start_Time=15:59:34 End_Date=2014/02/26 End_Time=16:47:52
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 SUB=23:1,24:1,71:2,73:1,99:1,115:4,
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 SORT=6:1,7:4,
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 NG=223:1,224:1,801:2,803:1,
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - </DUTMAP>
-[2014/03/07 12:43:02][ERROR](SmtOscar_Hist_FileCheck.java:136) - </MLCT>
-[2014/03/07 12:49:34][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_140226_QA-LAB_T070FUL_mu01_20140226164752_00.osc.bak
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:132) - File Check Format Error-7 : ProductId Error
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - <MLCT>
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - <HEAD>
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - Flag=10 Retest=0 Side=A Tmode=AUTO
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - LotId=140226_QA-LAB ProductId=KLM8G1WEMB-B0300Y0-123456 ProcessId=T070FUL Inqty=5
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - Tester=mu01 System=MAGNUM3 Handler=M500HT Program=mx8pbf3h Type=PP Board_id=00000000
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - Head=A OS=0.0 Operator=0904342911 Sub_Program=004D4640
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - Simax=COMPONENT
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - NEXTSPLITINFO=
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - </HEAD>
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - <GAMMA>
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - OP_INPUT=5 OP_CAT1=0 OP_CAT2=0 OP_CAT3=0 OP_CAT4=0 OP_CAT5=0 OP_CAT6=1 OP_CAT7=4 OP_CAT8=0 OP_CAT9=0 OP_PASS=0
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - EQP_INPUT=5 EQP_CAT1=0 EQP_CAT2=0 EQP_CAT3=0 EQP_CAT4=0 EQP_CAT5=0 EQP_CAT6=1 EQP_CAT7=4 EQP_CAT8=0 EQP_CAT9=0 EQP_PASS=0
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - HD_INPUT=10 HD_REJ=0 HD_SOR=10 HD_RET=0 HD_CAT1=0 HD_CAT2=0 HD_CAT3=0 HD_CAT4=0 HD_CAT5=0 HD_CAT6=1 HD_CAT7=4 HD_CAT8=0 HD_PASS=0
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - PGMVER_START= PGMVER_END=
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - SBL_CODE=24 SBL_JUDGE=24 SBL_CMD=98 RUN_SBL_CODE=BIN RUN_SBL_CMD=ISBC2
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - SBL_CODE=101 SBL_JUDGE=101 SBL_CMD=98 RUN_SBL_CODE=YLD RUN_SBL_CMD=
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - LOTINMODE=NOR LOTOUTMODE=AUTO
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - IBB=0.00 FBB=0.00 EBB=0.00
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - </GAMMA>
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - <DUTMAP>
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 Start_Date=2014/02/26 Start_Time=15:59:34 End_Date=2014/02/26 End_Time=16:47:52
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 SUB=23:1,24:1,71:2,73:1,99:1,115:4,
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 SORT=6:1,7:4,
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 NG=223:1,224:1,801:2,803:1,
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - </DUTMAP>
-[2014/03/07 12:49:39][ERROR](SmtOscar_Hist_FileCheck.java:136) - </MLCT>
-[2014/03/07 13:07:45][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_GXL0319P_T070128_a642_0529132910.osc
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:132) - File Check Format Error-7 : ProductId Error
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - <MLCT>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - <HEAD>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Flag=10 Retest=1 Side=A Tmode=AUTO
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Simax=COMPONENT
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - LotId=GXL0319P ProductId=K4G10325FG-HCJ00SO-GDH42A ProcessId=T070128 Inqty=2338
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Tester=a642 System=T5585 Handler=M6541A Program=GH8A7128 Type=PP Board_id=AC362071
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Head=A OS= Operator=00206542 Sub_Program=cgh8*.scr
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Line=YTS4
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - </HEAD>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - <GAMMA>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - OP_INPUT=0 OP_CAT1=0 OP_CAT2=0 OP_CAT3=0 OP_CAT4=2330 OP_CAT5=0 OP_CAT6=0 OP_CAT7=8 OP_CAT8=0 OP_CAT9=0 OP_PASS=0 
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - HD_INPUT=2355 HD_REJ=0 HD_SOR=2355 HD_RET=17 HD_CAT1=0 HD_CAT2=0 HD_CAT3=0 HD_CAT4=2330 HD_CAT5=0 HD_CAT6=0 HD_CAT7=8 HD_CAT8=0 HD_PASS=2330 
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - PGMVER_START=000.009 PGMVER_END=000.009
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - SBL_CODE=333 SBL_JUDGE=PASS SBL_CMD=NUL RUN_SBL_CODE=NUL RUN_SBL_CMD=NUL
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - LOTINMODE=NOR LOTOUTMODE=AUTO 
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - MLOTLIST= 
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - </GAMMA>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - <DUTMAP>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 Start_Date=13/05/29 Start_Time=12:06:42 End_Date=13/05/29 End_Time=13:24:55
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 SUB=4:2321,114:7,131:2,151:6,152:1,183:1,190:62,195:175,
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 SORT=4:2321,7:10,8:7,
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=0 NG=7:7,13:6,14:4,15:175,16:15,8104:2,8513:6,8865:1,8891:1,9500:2321,9501:2338,9600:62,
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=1 Start_Date=13/05/29 Start_Time=12:06:42 End_Date=13/05/29 End_Time=13:29:03
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=1 SUB=4:9,131:1,151:5,152:1,183:1,195:1,
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=1 SORT=4:9,7:8,
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - Retest=1 NG=15:1,8104:1,8513:5,8865:1,8891:1,9500:9,9501:17,
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - </DUTMAP>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - <OSVERSION>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - HOS_A=6.01M26A HOS_B=6.01M26A
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - TOS_OPSYS=ASXUBASE_PASX51-85****_2.04 TOS_ATL=ATW51SU_PASX51-85****_6.05-1
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - TOS_DIAG=DIAG5585SU_PASX51-85****_2.04A1 TOS_SYSOS=SYSTEST51SU_PASX51-85****_6.05-1
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - TOS_GPIB=DIAG5585SU_PASX51-85****_2.04A1
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - TesterIF=TMS_003.003_YYM
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - </OSVERSION>
-[2014/03/07 13:07:51][ERROR](SmtOscar_Hist_FileCheck.java:136) - </MLCT>
-[2014/03/07 13:09:15][INFO ](SmtOscar_Main.java:153) - [SmtOscar File Read] A_GXL0319P_T070128_a642_0529132910.osc.gz
-[2014/03/07 13:09:15][ERROR](SmtOscar_Hist_FileCheck.java:132) - File Check Format Error-2 : Data Not <MLCT> Error
-[2014/03/07 13:09:15][ERROR](SmtOscar_Hist_FileCheck.java:136) - �       �T�n�:��+�.��Q/�hK���L�MV���:n���%EuӢ�T����p��"��f��XEKt�}���mw�ϒb��uRas8�wmJ�����.�,� �xNw2���A���q���R�9	%����j��%D�WI�q��9��3���|�>}=�Hƹ�,ܝd�:��i��޴O��0��¡���=�d�+�j��/��*�:��]��I��.#E����Z��Kwj�Ǔ$��5�}l^�?�ﮟN(�?u��h-�5�D�Z��jҢ��$�Z:!6!>!�v���v'�ID����ր�&�d\�Q��o����i$�,����X���v'd��?p})�G�J����Fm�B�		�H�E�J!�ʚuŒs�mp[GI,�R��Hu��u�L�?C�J�y?[n1Dem���G�r`�T��_�?iA���h���s{:7Q{�$�s"�,9�? �B↰�ݛ,�9<dN(ąh��N�8�3J�ЛQNC6���.�,��vH��D B�مB	&�^H����E"�^��9��� uC*f>%�����0	���+����(8Z��%}����7�!���+Ao��o̰u^�`�AC�o�vI�.���)�����E�aC�,�hS�FI��М�
-[2014/03/07 13:09:15][ERROR](SmtOscar_Hist_FileCheck.java:136) - �p5��@XV�^K���ұ��w�^��<
-[2014/03/07 13:09:15][ERROR](SmtOscar_Hist_FileCheck.java:136) - �&�Y�dR����M
-[2014/03/07 13:09:15][ERROR](SmtOscar_Hist_FileCheck.java:136) - ��+�KE�J���K��R�W��F�����Y3����4ǋ3��&�
-[2014/03/07 13:09:15][ERROR](SmtOscar_Hist_FileCheck.java:136) - !!o��s0��|����M��
