@@ -16,7 +16,7 @@ public class SmtIsi_Process {
 
         if (FileName.contains("casi")) {
             for (int i = 0; i < Hist_Variable.casiList.size(); i++) {
-                String[] casiData = Hist_Variable.casiList.get(i).split(" ");
+                String[] casiData = Hist_Variable.casiList.get(i).split("\\s+");
                 dele.insertGasi((i + 1), casiData[0], casiData[1], casiData[2].replaceAll(";", ""));
             }
         } else if (FileName.contains("chipid")) {
@@ -59,7 +59,7 @@ public class SmtIsi_Process {
         } else if (FileName.contains("ngbin")) {
 
             String mainBin = "";
-            String subBin = "";
+            String ngBin = "";
 
             // MAIN_BIN
             int subBinMainListSize = Hist_Variable.ngBinMainList.size();
@@ -75,13 +75,13 @@ public class SmtIsi_Process {
             for (int i = 0; i < subBinListSize; i++) {
 
                 if (!Hist_Variable.ngBinList.get(i).contains("99999999")) {
-                    subBin += Hist_Variable.ngBinList.get(i) + ",";
+                    ngBin += Hist_Variable.ngBinList.get(i) + ",";
                 }
             }
-            dele.insertNgBin(mainBin, subBin);
+            dele.insertNgBin(mainBin, ngBin);
         } else if (FileName.contains("cancel")) {
             for (int i = 0; i < Hist_Variable.cancelList.size(); i++) {
-                String[] casiData = Hist_Variable.cancelList.get(i).split(" ");
+                String[] casiData = Hist_Variable.cancelList.get(i).split("\\s+");
                 dele.insertCancel((i + 1), casiData[0], casiData[1], casiData[2].replaceAll(";", ""));
             }
         } else if (FileName.contains(".FLS")) {
