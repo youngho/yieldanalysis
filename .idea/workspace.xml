@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37110dd3-9ece-4c72-87ff-107091d62df8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/tptech/mes/H101ClientTest_start.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/tptech/conf/PropertiesReader.class" afterPath="$PROJECT_DIR$/bin/com/tptech/conf/PropertiesReader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/tptech/isi/SmtIsi_Process.class" afterPath="$PROJECT_DIR$/bin/com/tptech/isi/SmtIsi_Process.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.gitignore" afterPath="$PROJECT_DIR$/bin/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tptech/isi/SmtIsi_Process.java" afterPath="$PROJECT_DIR$/src/com/tptech/isi/SmtIsi_Process.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yieldAnalysis_start.bat" afterPath="$PROJECT_DIR$/yieldAnalysis_start.bat" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -659,7 +652,7 @@
       <workItem from="1488957592885" duration="10000" />
       <workItem from="1489122584372" duration="117000" />
       <workItem from="1489130390839" duration="129000" />
-      <workItem from="1489134134332" duration="52000" />
+      <workItem from="1489134134332" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="mes module insert">
       <created>1488953709702</created>
@@ -668,11 +661,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488953709702</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mes module insert">
+      <created>1489134215652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489134215652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12007000" />
+    <option name="totallyTimeSpent" value="12046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -819,6 +819,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="29" column="78" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="78" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -893,6 +894,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="29" column="78" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="78" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -914,6 +916,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="29" column="78" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="78" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,6 +1059,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3173">
           <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,6 +1077,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
