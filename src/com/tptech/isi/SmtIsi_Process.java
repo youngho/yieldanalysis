@@ -1,6 +1,6 @@
 package com.tptech.isi;
 
-import com.tptech.mes.H101ClientTest_start;
+import com.tptech.mes.H101ClientTest_end;
 import org.apache.log4j.Logger;
 
 import com.tptech.Hist_Variable;
@@ -96,13 +96,13 @@ public class SmtIsi_Process {
         }
     }
     public void getMESInfo(){
-        H101ClientTest_start ct = new H101ClientTest_start();
-//        if(ct.InitMsgHandler() == false) {
-//            System.out.println("getMESInfo : false");
-//        }else {
+        H101ClientTest_end ct = new H101ClientTest_end();
+        if(ct.InitMsgHandler() == false) {
+            System.out.println("getMESInfo : false");
+        }else {
             ct.ViewLot();
             ct.TermMsgHandler();
-//        }
+        }
         return;
     }
 }
