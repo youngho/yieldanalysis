@@ -1,12 +1,12 @@
 package com.tptech.isi;
 
-import com.tptech.mes.H101ClientTest_end;
 import org.apache.log4j.Logger;
 
 import com.tptech.Hist_Variable;
 import com.tptech.log.WriteLogger;
 import com.tptech.mes.H101ClientTest_end;
 import com.tptech.util.FileMoveUtil;
+import com.tptech.util.Utils;
 import com.tptech.yieldAnalysis_hist.YieldAnalysis_Hist_Dele;
 
 public class SmtIsi_Process {
