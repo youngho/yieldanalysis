@@ -5,20 +5,29 @@ import org.apache.log4j.Logger;
 
 import com.tptech.Hist_Variable;
 import com.tptech.log.WriteLogger;
+import com.tptech.mes.H101ClientTest_end;
+import com.tptech.util.FileMoveUtil;
 import com.tptech.yieldAnalysis_hist.YieldAnalysis_Hist_Dele;
 
 public class SmtIsi_Process {
 
     private static Logger logger = WriteLogger.getInstance("SmtSbl_Process.java");
 
+    
+    Utils utils = new Utils();
+    String location = FileMoveUtil.getDirpath("conSuccess") + "/" + Utils.getDate("MM", 0) + "Data";
+    
     public void Sbl_Start(String FileName) {
         YieldAnalysis_Hist_Dele dele = new YieldAnalysis_Hist_Dele();
 
+        String creatDate = utils.substringDate(FileName);
+        
         if (FileName.contains("casi")) {
             for (int i = 0; i < Hist_Variable.casiList.size(); i++) {
                 String[] casiData = Hist_Variable.casiList.get(i).split("\\s+");
                 dele.insertGasi((i + 1), casiData[0], casiData[1], casiData[2].replaceAll(";", ""));
             }
+            dele.insertRawData(location, FileName, creatDate, "CASI_BIN");
         } else if (FileName.contains("chipid")) {
 
         } else if (FileName.contains("mainbin")) {
@@ -55,6 +64,7 @@ public class SmtIsi_Process {
             }
 
             dele.insertMainBin(testBin, handlerBin, opBin);
+            dele.insertRawData(location, FileName, creatDate, "MAIN_BIN");
             getMESInfo();
         } else if (FileName.contains("ngbin")) {
 
@@ -79,6 +89,7 @@ public class SmtIsi_Process {
                 }
             }
             dele.insertNgBin(mainBin, ngBin);
+            dele.insertRawData(location, FileName, creatDate, "NG_BIN");
         } else if (FileName.contains("cancel")) {
             for (int i = 0; i < Hist_Variable.cancelList.size(); i++) {
                 String[] casiData = Hist_Variable.cancelList.get(i).split("\\s+");
@@ -93,6 +104,7 @@ public class SmtIsi_Process {
                         Integer.parseInt(zon_split[1]), Integer.parseInt(zon_split[2]),
                         Hist_Variable.tdbi_x_List.get(i), Hist_Variable.tdbi_y_List.get(i), Hist_Variable.tdbi_map_List.get(i));
             }
+            dele.insertRawData(location, FileName, creatDate, "TDBI");
         }
     }
     public void getMESInfo(){
